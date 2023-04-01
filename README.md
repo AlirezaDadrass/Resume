@@ -31,9 +31,13 @@ A good team member, and early team leader
  - ADO.NET
  - Embedded Software Programming
  - JavaScript
+ 
 ## Experiences
 
 - Freelancer programmer (Before April, 2017)
-- Fullstack developer Rayadars (April, 2017 - April, 2018)
-- Backend developer at Peyvast 
-
+- Fullstack developer Rayadars (April, 2017 - March, 2018)
+- Backend developer at Payvast Software Group Co (April, 2018 - September, 2018)
+- Ministry of Cooperatives Labour and Social Welfare of Iran (October, 2018 - November 2020)
+- Iran Public Warehouses and Customs Services Co (December, 2020 - September, 2021)
+- GhandakCode (September, 2021 - October, 2022)
+- Team lead Rayadars (October, 2022 - Now)
